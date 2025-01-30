@@ -1,4 +1,4 @@
- "Predicting Income Levels with Machine Learning: Unlocking Insights from Data"
+ "Adult: Predicting Income Levels with Machine Learning: Unlocking Insights from Data"
 
 Project Objective:
 The project aims to predict income levels (e.g., above or below $50k) based on demographic and work-related attributes using machine learning models. This is a classification problem.
