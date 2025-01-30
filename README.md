@@ -26,5 +26,5 @@ Conclusion:
 The Adult dataset analysis project revealed that factors such as education level, occupation, age, and marital status
 significantly influences an individual's income exceeding $50,000 per year. Machine Learning models, including Logistic Regression,
 Random Forest Classifier, Decision Tree, SVM, Gradient Boosting were trained and evaluated on the preprocessed data.
-Here Gradient Boosting Classifier achieved the highest accuracy of 87%. 
+Here Gradient Boosting Classifier achieved the highest accuracy of 86%. 
 This analysis provide valuable insights like socioeconomic factors contributing to income equality.
